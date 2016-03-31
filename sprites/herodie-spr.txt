@@ -1,0 +1,21 @@
+frames 8
+width 1
+height 1
+color green
+A
+end
+V
+end
+>
+end
+<
+end
+A
+end
+V
+end
+>
+end
+<
+end
+eof

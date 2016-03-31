@@ -1,0 +1,13 @@
+frames 1
+width 36
+height 7
+color yellow
+                                    
+                                    
+       ____________________________ 
+      |Use Arrow Keys to move      |
+      |Get hero to Exit ' '        |
+      |Push blocks ' ' to make path|
+      |____________________________|
+end
+eof

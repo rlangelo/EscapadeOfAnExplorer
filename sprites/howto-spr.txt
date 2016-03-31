@@ -1,0 +1,47 @@
+frames 2
+width 53
+height 20
+color yellow
+GET YOUR PLAYER TO THE EXIT.                         
+PUSH BLOCKS AROUND TO CREATE A PATH.                 
+CAN'T PUSH WALLS.                                    
+DON'T STEP ON A BOMB.                                
+DON'T FALL IN THE WATER.                             
+PUSH A BLOCK INTO THE WATER TO TURN IT TO DIRT.      
+STEP ON DIRT TO MAKE IT DISAPPEAR.                   
+PLACE BLOCK ON PRESSURE PLATE TO OPEN PRESSURE GATE. 
+CHARACTER: GREEN '>'                                 
+WALLS: WHITE '#'                                     
+BLOCKS OFF PLATE: YELLOW '#'                         
+BLOCKS ON PLATE: GREEN '#'                           
+EXIT: BLUE '@'                                       
+BOMBS: RED 'b'                                       
+WATER: BLUE '~'                                      
+DIRT: YELLOW 'D'                                     
+PRESSURE PLATE: MAGENTA 'o'                          
+PRESSURE GATE: MAGENTA '#'                           
+                                                     
+Press 's' to Start, 'm' for Main Menu, 'q' for Quit  
+end
+GET YOUR PLAYER TO THE EXIT.                         
+PUSH BLOCKS AROUND TO CREATE A PATH.                 
+CAN'T PUSH WALLS.                                    
+DON'T STEP ON A BOMB.                                
+DON'T FALL IN THE WATER.                             
+PUSH A BLOCK INTO THE WATER TO TURN IT TO DIRT.      
+STEP ON DIRT TO MAKE IT DISAPPEAR.                   
+PLACE BLOCK ON PRESSURE PLATE TO OPEN PRESSURE GATE. 
+CHARACTER: GREEN '>'                                 
+WALLS: WHITE '#'                                     
+BLOCKS OFF PLATE: YELLOW '#'                         
+BLOCKS ON PLATE: GREEN '#'                           
+EXIT: BLUE '@'                                       
+BOMBS: RED 'B'                                       
+WATER: BLUE '~'                                      
+DIRT: YELLOW 'D'                                     
+PRESSURE PLATE: MAGENTA 'o'                          
+PRESSURE GATE: MAGENTA '#'                           
+                                                     
+                                                     
+end
+eof

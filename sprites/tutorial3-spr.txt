@@ -1,0 +1,13 @@
+frames 1
+width 43
+height 7
+color yellow
+                                           
+                                           
+         _________________________________ 
+        |Pushing blocks into water        |
+        |  turns water to dirt ' '        |
+        |Step on dirt to make it disappear|
+        |_________________________________|
+end
+eof

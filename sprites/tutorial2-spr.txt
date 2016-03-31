@@ -1,0 +1,17 @@
+frames 1
+width 49
+height 11
+color yellow
+                                                 
+                                                 
+                                                 
+                                                 
+            ____________________________________ 
+           |Don't fall in the water ' '         |
+           |Don't step on a bomb ' '            |
+           |Push blocks onto Pressure Plates ' '|
+           | to open Pressure Gates ' '         |
+           |Push blocks into bombs to blow them |
+           |____________________________________|
+end
+eof
